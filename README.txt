@@ -11,3 +11,6 @@
 тут -> https://docs.github.com/ru/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
 
 Удачи!
+ЗАГРУЗИЛ ИСХОДНЫЙ КОД В ВИДЕ СКРИПТОВ
+ОСТАЛЬНОЕ НА ЯНДЕКС ДИСКЕ
+https://disk.yandex.ru/d/oJ_FIqRK4IdZzg
