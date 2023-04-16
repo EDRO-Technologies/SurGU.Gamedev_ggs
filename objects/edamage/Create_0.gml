@@ -1,0 +1,1 @@
+image_angle = point_direction(x,y,player_head.x,player_head.y)
