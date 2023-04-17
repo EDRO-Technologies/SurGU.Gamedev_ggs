@@ -13,4 +13,4 @@
 Удачи!
 ЗАГРУЗИЛ ИСХОДНЫЙ КОД В ВИДЕ СКРИПТОВ
 ОСТАЛЬНОЕ НА ЯНДЕКС ДИСКЕ
-https://disk.yandex.ru/d/oJ_FIqRK4IdZzg
+https://disk.yandex.ru/d/4zLdJbEhsYpE1g
